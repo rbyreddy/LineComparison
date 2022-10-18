@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ec6ca23-7fa3-4cb9-9752-144242df6455" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/linecomparison/EqualityOfTwoLines.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linecomparison/EqualityOfTwoLines.java" afterDir="false" />
-    </list>
+    <list default="true" id="8ec6ca23-7fa3-4cb9-9752-144242df6455" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +32,20 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EqualityOfTwoLines">
+  <component name="RunManager" selected="Application.CompareOfTwoLines">
+    <configuration name="CompareOfTwoLines" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linecomparison.CompareOfTwoLines" />
+      <module name="LineComparison" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linecomparison.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EqualityOfTwoLines" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="linecomparison.EqualityOfTwoLines" />
       <module name="LineComparison" />
@@ -76,6 +87,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CompareOfTwoLines" />
         <item itemvalue="Application.EqualityOfTwoLines" />
         <item itemvalue="Application.LengthOfaLine" />
         <item itemvalue="Application.WelcomeLineComparison" />
